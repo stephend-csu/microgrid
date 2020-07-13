@@ -1,3 +1,1 @@
-# microgrids
-
-Campus solar microgrid algorithm development project
+# Adapted from hybrid vehicle
